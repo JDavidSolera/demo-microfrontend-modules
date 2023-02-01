@@ -1,0 +1,3 @@
+{
+    "./CarouselTerminal": "./src/modules/terminal/components/CarouselTerminal/CarouselTerminal.tsx"
+}
